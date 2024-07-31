@@ -1,3 +1,5 @@
+// Create a class to check whether a year is a leap year. Write a separate class for testing this functionality (use only one if statement in the leap year check)
+
 import java.util.Scanner;
 
 class Year {
