@@ -1,4 +1,4 @@
-// Create a class ComplexNumber. Implement the appropriate accessor and mutator methods for setting and displaying a complex number in Java.
+// Create a class ComplexNumber. Implement the appropriate accessor and mutator methods for setting and displaying a complex number in Java
 
 import java.util.Scanner;
 
