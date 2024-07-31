@@ -1,3 +1,5 @@
+// Create a class called number which will have 1 integer as data member & 2 methods for checking whether the number is prime or not & odd or even. Create another class which contains the main method and test the number class.
+
 import java.util.Scanner;
 
 class Number {
