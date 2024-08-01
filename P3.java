@@ -1,4 +1,4 @@
-// Create a class ComplexNumber. Implement the appropriate accessor and mutator methods for setting and displaying a complex number in Java
+// Create a class for complex number. Write the appropriate accessor and mutator method for the class. Then write methods to add,multiply and compare 2 complex numbers
 
 import java.util.Scanner;
 
