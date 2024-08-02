@@ -48,3 +48,25 @@ Create a class to represent complex numbers and implement appropriate accessor a
     - `void setImaginary(double imaginary)`: Sets the imaginary part of the complex number.
     - `void display()`: Displays the complex number in the format "real + imaginary i".
 - Create another class containing the `main` method to test the `ComplexNumber` class.
+
+## Question 4: Person Age Comparison
+
+### Description:
+Create a class called `Person` with `name`, `age`, and `address` as data members. Write methods to compare the age of two `Person` objects.
+
+### Requirements:
+- Implement a `Person` class with:
+  - **Data Members:**
+    - `String name`: The name of the person.
+    - `int age`: The age of the person.
+    - `String address`: The address of the person.
+  - **Methods:**
+    - `String compareAge(Person person)`: Compares the age of the current person with another person and returns a string indicating which person is older or if they are of the same age.
+    - `void setName(String name)`: Sets the name of the person.
+    - `String getName()`: Gets the name of the person.
+    - `void setAge(int age)`: Sets the age of the person.
+    - `int getAge()`: Gets the age of the person.
+    - `void setAddress(String address)`: Sets the address of the person.
+    - `String getAddress()`: Gets the address of the person.
+    - `void display()`: Displays the details of the person.
+- Create another class containing the `main` method to test the `Person` class.
